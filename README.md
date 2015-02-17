@@ -74,6 +74,16 @@ Skills: C++, Win32 APIs
 
 Mentors: @zcbenz
 
+### Implement secure native node modules
+
+Implement a secure native module loader for Node.js based on Google NaCl's toolchain and validator. As a first step, make it possible for native module authors to explicitly target an NaCl sandboxed container in npm modules. In this mode, authors would be forced to communicate with the main Node process through NaCl's built-in messaging system. As a stretch goal, enable sandboxing of native modules directly in the Node process without modifications by their authors. The requiring Node process should be able to white-list system call APIs, and the V8 extension API should function correctly while restricting memory access that would compromise security.
+
+Expected outcome: A viable mechanism for loading native code in Node applications while maintaining security.
+
+Skills: C++, Assembly, Theoretical understanding of NaCl, V8, and Node.js internals
+
+Mentors: @nathansobo
+
 ## [Hub](https://github.com/github/hub)
 
 Hub is a command-line tool that wraps git to provide an enhanced workflow for repos that are hosted on GitHub. For example, you can checkout, merge, and open new pull requests right from the terminal. For many of its operations hub uses the GitHub API.
