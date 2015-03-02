@@ -16,6 +16,9 @@ Expected Outcome: Improved speed opening files and the 2MB file limit can be inc
 
 Skills: CoffeeScript, JavaScript, C, C++
 
+Relevant issues: [atom/atom#979](https://github.com/atom/atom/issues/979) and
+[atom/atom#1667](https://github.com/atom/atom/issues/1667)
+
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement support for non-US keyboard layouts in Atom
@@ -30,6 +33,9 @@ Expected Outcome: Using Atom with a non-US keybaord layout will be a better expe
 
 Skills: CoffeeScript, JavaScript
 
+Relevant issues: [atom/atom-keymap#35](https://github.com/atom/atom-keymap/issues/35)
+and [atom/atom-keymap#37](https://github.com/atom/atom-keymap/issues/37)
+
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Improve text rendering in Atom
@@ -42,6 +48,11 @@ Expected Outcome: People writing in any language can use Atom as their text edit
 
 Skills: CoffeeScript, JavaScript
 
+Relevant issues: [atom/atom#1783](https://github.com/atom/atom/issues/1783),
+[atom/atom#3821](https://github.com/atom/atom/issues/3821),
+[atom/atom#4007](https://github.com/atom/atom/issues/4007),
+and [atom/atom#4595](https://github.com/atom/atom/issues/4595)
+
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement scripts to generate source tarball of Atom and its sibling projects
@@ -51,6 +62,9 @@ Summary: Currently the Linux packages of Atom are built on GitHub's own machines
 Expected Outcome: Packages can be built for each Linux distribution from a source tarball.
 
 Skills: Shell scripting, Python, familiarity with Linux packaging on popular distributions.
+
+Relevant issues: [atom/atom-shell#259](https://github.com/atom/atom-shell/issues/259)
+and [atom/atom-shell#735](https://github.com/atom/atom-shell/issues/735)
 
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
@@ -62,6 +76,10 @@ Expected Outcome: A working Atom package or IDE plugin for developing Atom Shell
 
 Skills: JavaScript, experience of developing editor plugins or IDE extensions
 
+Relevant issues: [atom/atom-shell#793](https://github.com/atom/atom-shell/issues/793),
+[atom/atom-shell#804](https://github.com/atom/atom-shell/issues/804),
+and [atom/atom-shell-starter#53](https://github.com/atom/atom-shell-starter/issues/53)
+
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### Improve printing support of Atom Shell
@@ -72,6 +90,10 @@ Expected Outcome: The printing works on Windows, and probably with some new prin
 
 Skills: C++, Win32 APIs
 
+Relevant issues: [atom/atom-shell#1157](https://github.com/atom/atom-shell/issues/1157),
+[atom/atom-shell#865](https://github.com/atom/atom-shell/issues/865),
+and [atom/atom-shell#805](https://github.com/atom/atom-shell/issues/805)
+
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### Implement secure native node modules
@@ -81,6 +103,8 @@ Implement a secure native module loader for Node.js based on Google NaCl's toolc
 Expected outcome: A viable mechanism for loading native code in Node applications while maintaining security.
 
 Skills: C++, Assembly, Theoretical understanding of NaCl, V8, and Node.js internals
+
+Relevant issues: [atom/atom#1763](https://github.com/atom/atom/issues/1763)
 
 Mentors: [@nathansobo](https://github.com/nathansobo)
 
