@@ -16,7 +16,7 @@ Expected Outcome: Improved speed opening files and the 2MB file limit can be inc
 
 Skills: CoffeeScript, JavaScript, C, C++
 
-Mentors: @kevinsawicki
+Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement support for non-US keyboard layouts in Atom
 
@@ -30,7 +30,7 @@ Expected Outcome: Using Atom with a non-US keybaord layout will be a better expe
 
 Skills: CoffeeScript, JavaScript
 
-Mentors: @kevinsawicki
+Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Improve text rendering in Atom
 
@@ -42,7 +42,7 @@ Expected Outcome: People writing in any language can use Atom as their text edit
 
 Skills: CoffeeScript, JavaScript
 
-Mentors: @kevinsawicki
+Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement scripts to generate source tarball of Atom and its sibling projects
 
@@ -52,7 +52,7 @@ Expected Outcome: Packages can be built for each Linux distribution from a sourc
 
 Skills: Shell scripting, Python, familiarity with Linux packaging on popular distributions.
 
-Mentors: @zcbenz
+Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### IDE and editor integrations to develop Atom Shell apps
 
@@ -62,7 +62,7 @@ Expected Outcome: A working Atom package or IDE plugin for developing Atom Shell
 
 Skills: JavaScript, experience of developing editor plugins or IDE extensions
 
-Mentors: @zcbenz
+Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### Improve printing support of Atom Shell
 
@@ -72,7 +72,7 @@ Expected Outcome: The printing works on Windows, and probably with some new prin
 
 Skills: C++, Win32 APIs
 
-Mentors: @zcbenz
+Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### Implement secure native node modules
 
@@ -82,7 +82,7 @@ Expected outcome: A viable mechanism for loading native code in Node application
 
 Skills: C++, Assembly, Theoretical understanding of NaCl, V8, and Node.js internals
 
-Mentors: @nathansobo
+Mentors: [@nathansobo](https://github.com/nathansobo)
 
 ## [Hub](https://github.com/github/hub)
 
@@ -96,7 +96,7 @@ Expected Outcome: go-octokit would be a better hypermedia client, preferrably by
 
 Skills: Go, HTTP
 
-Mentor: @mislav
+Mentor: [@mislav](https://github.com/mislav)
 
 ### Create support for defining extensible shell completions
 
@@ -106,7 +106,7 @@ Expected Outcome: A generator that could take a simple declarative markup for co
 
 Skills: shell scripting
 
-Mentor: @mislav
+Mentor: [@mislav](https://github.com/mislav)
 
 ## [Linguist](https://github.com/github/linguist)
 
@@ -116,7 +116,7 @@ Summary: Linguist uses a bayesian classifier to detect the language of a file. A
 
 Expected Outcome: A proof of concept that increases the accuracy of Linguist's classifier.
 
-Mentors: @arfon, @bkeepers
+Mentors: [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkeepers)
 
 Skills: C++, Ruby, language learning
 
@@ -126,7 +126,7 @@ Summary: Linguist currently uses multiple strategies to detect the language of a
 
 Expected Outcome: Increased accuracy in language detection and the ability to return "unknown" if the confidence score is not above a threshold.
 
-Mentors: @arfon, @bkeepers
+Mentors: [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkeepers)
 
 Skills: Ruby, language learning
 
@@ -136,7 +136,7 @@ References:
 
 ## [Homebrew](https://github.com/Homebrew/homebrew)
 
-Mentor: @mikemcquaid
+Mentor: [@mikemcquaid](https://github.com/mikemcquaid)
 
 ### Allow prioritisation of taps
 
