@@ -104,6 +104,8 @@ Expected outcome: A viable mechanism for loading native code in Node application
 
 Skills: C++, Assembly, Theoretical understanding of NaCl, V8, and Node.js internals
 
+Relevant issues: [atom/atom#1763](https://github.com/atom/atom/issues/1763)
+
 Mentors: [@nathansobo](https://github.com/nathansobo)
 
 ## [Hub](https://github.com/github/hub)
