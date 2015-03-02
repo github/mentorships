@@ -16,6 +16,9 @@ Expected Outcome: Improved speed opening files and the 2MB file limit can be inc
 
 Skills: CoffeeScript, JavaScript, C, C++
 
+Relevant issues: [atom/atom#979](https://github.com/atom/atom/issues/979) and
+[atom/atom#1667](https://github.com/atom/atom/issues/1667)
+
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement support for non-US keyboard layouts in Atom
@@ -30,6 +33,9 @@ Expected Outcome: Using Atom with a non-US keybaord layout will be a better expe
 
 Skills: CoffeeScript, JavaScript
 
+Relevant issues: [atom/atom-keymap#35](https://github.com/atom/atom-keymap/issues/35)
+and [atom/atom-keymap#37](https://github.com/atom/atom-keymap/issues/37)
+
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Improve text rendering in Atom
@@ -41,6 +47,11 @@ the editing experience in Atom.
 Expected Outcome: People writing in any language can use Atom as their text editor.
 
 Skills: CoffeeScript, JavaScript
+
+Relevant issues: [atom/atom#1783](https://github.com/atom/atom/issues/1783),
+[atom/atom#3821](https://github.com/atom/atom/issues/3821),
+[atom/atom#4007](https://github.com/atom/atom/issues/4007),
+and [atom/atom#4595](https://github.com/atom/atom/issues/4595)
 
 Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
