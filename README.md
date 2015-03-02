@@ -63,6 +63,9 @@ Expected Outcome: Packages can be built for each Linux distribution from a sourc
 
 Skills: Shell scripting, Python, familiarity with Linux packaging on popular distributions.
 
+Relevant issues: [atom/atom-shell#259](https://github.com/atom/atom-shell/issues/259)
+and [atom/atom-shell#735](https://github.com/atom/atom-shell/issues/735)
+
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### IDE and editor integrations to develop Atom Shell apps
@@ -73,6 +76,10 @@ Expected Outcome: A working Atom package or IDE plugin for developing Atom Shell
 
 Skills: JavaScript, experience of developing editor plugins or IDE extensions
 
+Relevant issues: [atom/atom-shell#793](https://github.com/atom/atom-shell/issues/793),
+[atom/atom-shell#804](https://github.com/atom/atom-shell/issues/804),
+and [atom/atom-shell-starter#53](https://github.com/atom/atom-shell-starter/issues/53)
+
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
 ### Improve printing support of Atom Shell
@@ -82,6 +89,10 @@ Summary: The printing feature of Atom Shell only works on Mac and Linux, we woul
 Expected Outcome: The printing works on Windows, and probably with some new printing related features.
 
 Skills: C++, Win32 APIs
+
+Relevant issues: [atom/atom-shell#1157](https://github.com/atom/atom-shell/issues/1157),
+[atom/atom-shell#865](https://github.com/atom/atom-shell/issues/865),
+and [atom/atom-shell#805](https://github.com/atom/atom-shell/issues/805)
 
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
