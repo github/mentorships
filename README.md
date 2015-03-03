@@ -61,7 +61,7 @@ Summary: Currently the Linux packages of Atom are built on GitHub's own machines
 
 Expected Outcome: Packages can be built for each Linux distribution from a source tarball.
 
-Skills: Shell scripting, Python, familiarity with Linux packaging on popular distributions.
+Skills: Shell scripting, Python, Chromium, Node.js, grunt, knowledge of C/C++ compilation and linking model, familiarity with Linux packaging on popular distributions.
 
 Relevant issues: [atom/atom-shell#259](https://github.com/atom/atom-shell/issues/259)
 and [atom/atom-shell#735](https://github.com/atom/atom-shell/issues/735)
