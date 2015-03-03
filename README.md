@@ -29,7 +29,7 @@ anyone using a non-US keyboard layout. This will include engaging with the
 community to identify the root problem and working through multiple solutions
 from patching Chromium to crowd-sourcing custom keybinding layouts.
 
-Expected Outcome: Using Atom with a non-US keybaord layout will be a better experience.
+Expected Outcome: Using Atom with a non-US keyboard layout will be a better experience.
 
 Skills: CoffeeScript, JavaScript
 
@@ -57,7 +57,7 @@ Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
 ### Implement scripts to generate source tarball of Atom and its sibling projects
 
-Summary: Currently the Linux packages of Atom are built on GitHub's own machines, however in the ideal Linux world we should use services like PPA or OBS to build packages for each Linux distribution. This requires us to provide source tarballs that can be built without the internet. The source talls need to be generated for Atom, Atom Shell and libchromiumcontent, and scripts should be provided to build packages from the source tarballs.
+Summary: Currently the Linux packages of Atom are built on GitHub's own machines, however in the ideal Linux world we should use services like PPA or OBS to build packages for each Linux distribution. This requires us to provide source tarballs that can be built without the internet. The source tarballs need to be generated for Atom, Atom Shell and libchromiumcontent, and scripts should be provided to build packages from the source tarballs.
 
 Expected Outcome: Packages can be built for each Linux distribution from a source tarball.
 
