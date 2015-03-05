@@ -112,16 +112,6 @@ Mentors: [@nathansobo](https://github.com/nathansobo)
 
 Hub is a command-line tool that wraps git to provide an enhanced workflow for repos that are hosted on GitHub. For example, you can checkout, merge, and open new pull requests right from the terminal. For many of its operations hub uses the GitHub API.
 
-### Establish a true hypermedia client for consuming API resources
-
-Summary: Hub uses [go-octokit](https://github.com/octokit/go-octokit), a Go library for communicating with GitHub API. The idea of go-octokit was that it would be a [hypermedia](http://en.wikipedia.org/wiki/HATEOAS) client, but it's not there yet. Ideally, a hypermedia API client would start "browsing" an API from its root resource and follow the links until it reaches the resource it's interested in. However, using go-octokit today still requires a lot of manual operations involving passing around URLs, and the library itself hardcodes a lot of URLs which is contrary to how hypermedia should work.
-
-Expected Outcome: go-octokit would be a better hypermedia client, preferrably by extracting a Go library that could be re-used to implement clients for other hypermedia APIs.
-
-Skills: Go, HTTP
-
-Mentor: [@mislav](https://github.com/mislav)
-
 ### Create support for defining extensible shell completions
 
 Summary: When using `git` on the command line, shell completions are useful to save keystrokes when expanding long branch names, git remote names, and flags for various git commands. Since hub wraps git, it tries to expand git completion support with its own specific arguments and extra commands, but this doesn't work perfectly on some systems. This project would be developing a unified way to define shell completions for bash, zsh, and fish in a manner that could also be used to extend existing completion scripts for git.
