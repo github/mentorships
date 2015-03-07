@@ -78,7 +78,7 @@ Skills: CoffeeScript, JavaScript, advanced knowledge of Atom Shell Development, 
 
 Relevant issues: [#22](https://github.com/github/gsoc/issues/22)
 
-Mentors:
+Mentors: [@jlord](//github.com/jlord)
 
 ### IDE and editor integrations to develop Atom Shell apps
 
