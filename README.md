@@ -68,6 +68,18 @@ and [atom/atom-shell#735](https://github.com/atom/atom-shell/issues/735)
 
 Mentors: [@zcbenz](https://github.com/zcbenz)
 
+### Workshopper for atom-shell
+
+Summary: A [workshopper](https://github.com/rvagg/workshopper) is an interactive tutorial with exercises in the command line, created by the community around the [nodeschool](http://nodeschool.io/) project, that helps developers of all skill sets to get started and/or familiar with a software package, and allows them to learn the most basic and advanced concepts of a piece of technology, in a self paced and guided manner. The aim of this project is to create a workshopper for atom-shell, that has lessons for dealing with basic concepts like installation, testing and bundling, as well as advanced topics like using the ipc module for message passing between browser and client scripts, or adding an app to the task tray.
+
+Expected Outcome: A Command Line Application deployed as a node module on [npm](//npmjs.com), that developers can install globally and run, to learn about Atom-Shell development.
+
+Skills: CoffeeScript, JavaScript, advanced knowledge of Atom Shell Development, familiarity with workshoppers already built by the nodeschool community.
+
+Relevant issues: [#22](https://github.com/github/gsoc/issues/22)
+
+Mentors: [@jlord](//github.com/jlord)
+
 ### IDE and editor integrations to develop Atom Shell apps
 
 Summary: We would like to make developing Atom Shell apps easier by providing integrations with popular IDEs and editors, it should able users to create and debug Atom Shell apps without leaving the developing environment. Examples are like Atom package, Visual Studio extension, and WebStorm plugins.
