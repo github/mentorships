@@ -145,6 +145,7 @@ Mentors: [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkee
 Skills: Ruby, language learning
 
 References:
+- https://github.com/github/linguist/issues/2195
 - https://github.com/github/linguist/issues/1571
 - http://link.springer.com/chapter/10.1007%2F978-3-319-08979-9_39
 
