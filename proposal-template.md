@@ -1,4 +1,4 @@
-Use this template to submit your proposal to the [Google Summer of Code site](www.google-melange.com/gsoc/homepage/google/gsoc2015). Applications can be submitted between March 16 - 27, but should be submitted as early as possible so we can provide feedback on your proposal.
+Use this template to submit your proposal to the [Google Summer of Code site](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). Applications can be submitted between March 16 - 27, but should be submitted as early as possible so we can provide feedback on your proposal.
 
 # Application Proposal template
 
