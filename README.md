@@ -136,25 +136,27 @@ Mentor: [@mislav](https://github.com/mislav)
 
 ## [Linguist](https://github.com/github/linguist)
 
-### Use grammar bundles to tokenize languages
+### Improving Linguist's language classifier
 
-Summary: Linguist uses a bayesian classifier to detect the language of a file. A [generic tokenizer](https://github.com/github/linguist/blob/master/lib/linguist/tokenizer.rb) is currently used for all languages to extract significant symbols. We would like to explore tokenizing contents for each language using the [grammar bundles](https://github.com/github/linguist/blob/master/grammars.yml) that are currently used for syntax highlighting.
+Summary: Linguist currently uses multiple strategies to detect the language of a file, including matching on file name, heuristics, and bayesian classification.
 
-Expected Outcome: A proof of concept that increases the accuracy of Linguist's classifier.
+Our current approach, implemented in Ruby, has several shortcomings:
 
-Mentors: [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkeepers)
+1. Each strategy is relatively independent, making it difficult to aggregate them into a more probable match.
 
-Skills: C++, Ruby, language learning
+2. The datasets used to train the classifier are not extensive enough
 
-### Weighted scoring for detection strategies
+3. The main disambiguation is performed using a naive Bayessian classifier, which is not the ideal model for this kind of problem
 
-Summary: Linguist currently uses multiple strategies to detect the language of a file, including matching on file name, heuristics, and bayesian classification. Each strategy is relatively independent, making it difficult to aggregate them into a more probable match. We would like to explore an algorithm that combines all strategies into a confidence score.
+4. The whole process uses a very high amount of memory and is not particularly performant.
 
-Expected Outcome: Increased accuracy in language detection and the ability to return "unknown" if the confidence score is not above a threshold.
+We're looking for ways to *increase the accuracy of the language classifier* and at the same time *reduce its memory usage and runtime*. For your proposal, discuss possible approaches towards improving accuracy (either by using novel machine learning techniques or by improving the existing approaches and/or dataset) and towards reducing the memory footprint of the classification. Ruby is not a hard requirement for the project -- we're looking for efficient solutions in Systems programming languages (C, C++, Go...) or for improvements on the design of the Ruby solution.
 
-Mentors: [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkeepers)
+Expected Outcome: A classifier that is both more accurate, faster and uses less memory than the original Ruby implementation. **This is a hard (and rewarding) project**.
 
-Skills: Ruby, language learning
+Mentors: [@vmg](https://github.com/vmg), [@arfon](https://github.com/arfon), [@bkeepers](https://github.com/bkeepers)
+
+Skills: Basic machine learning knowledge, solid knowledge of a Systems programming language or Ruby
 
 References:
 - https://github.com/github/linguist/issues/2195
