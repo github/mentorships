@@ -1,4 +1,4 @@
-# Participating in GitHub Open Source Mentorships
+# Contributing
 
 See [README.md](README.md) for information on applying for a mentorship.
 
