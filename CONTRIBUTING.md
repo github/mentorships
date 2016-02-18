@@ -13,7 +13,7 @@ Title: [summary of project]
 
 Summary: A couple sentences describing the project.
 
-Expected Outcome: A clear outcome that
+Expected Outcome: A clear outcome, where the answer to "Was the project successful?" is "yes" or "no".
 
 Skills: CoffeeScript, JavaScript, C, C++
 
@@ -24,15 +24,18 @@ Mentors: @username
 
 For example:
 
-> title: Implement support for non-US keyboard layouts in Atom
+> Title: Improve Atom's parser performance
 >
-> Investigate and implement ways to better support non-US keyboard layouts in the Atom text editor. This would greatly improve the editing experience for anyone using a non-US keyboard layout. This will include engaging with the community to identify the root problem and working through multiple solutions from patching Chromium to crowd-sourcing custom keybinding layouts.
+> Summary: Make the Atom parser faster and better at handling large files and long lines.
+> This includes identifying bottlenecks, developing benchmarks, and possibly
+> re-writing parts of the existing code base in C++ if needed.
 >
-> Expected Outcome: Using Atom with a non-US keyboard layout will be a better experience.
+> Expected Outcome: Improved speed opening files and the 2MB file limit can be increased or > emoved.
 >
-> Skills: CoffeeScript, JavaScript
+> Skills: CoffeeScript, JavaScript, C, C++
 >
-> Relevant issues: [atom/atom-keymap#35](https://github.com/atom/atom-keymap/issues/35) and [atom/atom-keymap#37](https://github.com/atom/atom-keymap/issues/37)
+> Relevant issues: [atom/atom#979](https://github.com/atom/atom/issues/979) and
+> [atom/atom#1667](https://github.com/atom/atom/issues/1667)
 >
 > Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
