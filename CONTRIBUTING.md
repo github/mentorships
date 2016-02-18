@@ -15,7 +15,7 @@ Summary: A couple sentences describing the project.
 
 Expected Outcome: A clear outcome, where the answer to "Was the project successful?" is "yes" or "no".
 
-Skills: CoffeeScript, JavaScript, C, C++
+Skills: list of languages, frameworks, or expertise
 
 Relevant issues: [urls to issues]()
 
