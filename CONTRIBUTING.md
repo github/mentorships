@@ -45,6 +45,7 @@ Mentoring Resources:
 
 - [Outreachy's info for Mentors](https://wiki.gnome.org/Outreachy/Admin/InfoForMentors)
 - [Google Summer of Code Mentor's Guide](http://en.flossmanuals.net/GSoCMentoring/what-is-gsoc/)
+- [Rails Girls Summer of Code – Becoming a Project Mentor](http://railsgirlssummerofcode.org/guide/projects/)
 
 ## Managing Issues
 
