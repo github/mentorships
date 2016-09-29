@@ -20,7 +20,7 @@ Here are som other programs that can give you opportunities to work with experie
 > Outreachy helps people from groups underrepresented in free and open source software get involved. We provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
 
 - **Audience:** Currently, internships are open internationally to women (cis and trans), trans men, and genderqueer people. Additionally, they are open to residents and nationals of the United States of any gender who are Black/African American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander. We are planning to expand the program to more participants from underrepresented backgrounds in the future.
-- **Paid:**
+- **Stipend:** $5500
 
 ### [Season of KDE 2015](https://season.kde.org/)
 
