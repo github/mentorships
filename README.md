@@ -27,7 +27,7 @@ Here are some other programs that can give you opportunities to work with experi
 > Pre-university students ages 13 to 17 are invited to take part in Google Code-in, our global, online contest introducing teenagers to the world of open source. With a wide variety of bite-sized tasks, it’s easy for beginners to jump in and get started no matter what skills they have. Mentors from our participating organizations lend a helping hand as participants learn what it’s like to work on an open source project.
 
 - **Audience:** Pre-university students ages 13 to 17 are invited to take part
-- **Stipend:** prices for winners
+- **Stipend:** prizes for winners
 
 ### [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 
