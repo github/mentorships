@@ -13,7 +13,7 @@ If you are looking for an opportunity to work on an open source project with a G
 
 ## Other Programs
 
-Here are som other programs that can give you opportunities to work with experienceced mentors on great projects.
+Here are some other programs that can give you opportunities to work with experienced mentors on great projects.
 
 ### [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships)
 
@@ -36,7 +36,7 @@ Here are som other programs that can give you opportunities to work with experie
 - **Audience:** Google Summer of Code is open to post-secondary students, age 18 and older in most countries.
 - **Stipend:** $5000
 
-### [Mozilla Winder of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
+### [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
 
 > The Winter of Security (MWOS) is a program organized by [Mozilla's Security teams](https://wiki.mozilla.org/Security) to involve students with Security projects. 
 
@@ -47,7 +47,7 @@ Here are som other programs that can give you opportunities to work with experie
 
 > Outreachy helps people from groups underrepresented in free and open source software get involved. We provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
 
-- **Audience:** Currently, internships are open internationally to women (cis and trans), trans men, and genderqueer people. Additionally, they are open to residents and nationals of the United States of any gender who are Black/African American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander. We are planning to expand the program to more participants from underrepresented backgrounds in the future.
+- **Audience:** Currently, internships are open internationally to women (cis and trans), trans men, and genderqueer people. Additionally, they are open to residents and nationals of the United States of any gender who are Black/African American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander. They are planning to expand the program to more participants from underrepresented backgrounds in the future.
 - **Stipend:** $5500
 
 ### [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
@@ -80,7 +80,7 @@ Here are som other programs that can give you opportunities to work with experie
 > 1. an EVoC mentorship can be initiated at any time during the calendar year,
 > 2. the Board can fund as many of these mentorships as it sees fit.
 
-- **Audience:** Everyone. We will also consider a broader range of proposals than GSoC: technical documentation is a specific area of interest for us.
+- **Audience:** Everyone. They will also consider a broader range of proposals than GSoC: technical documentation is a specific area of interest for them.
 - **Stipend:** $5000 for students over 18
 
 Know of other programs? [Add them here](https://github.com/github/mentorships/edit/master/README.md). Check out @tapasweni-pathak's [list of open source internship programs](https://github.com/tapasweni-pathak/SOC-Programs/blob/master/README.md) for more.
