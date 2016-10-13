@@ -4,9 +4,7 @@ See [README.md](README.md) for information on applying for a mentorship.
 
 ## Volunteering to Mentor
 
-**This is for GitHub employees.**
-
-If you are interested in mentoring on an open source project that you maintain or contribute to, [open an issue](https://github.com/github/mentorships/issues/new) and fill out the  template with details for the project.
+If you are interested in mentoring on an open source project that you maintain or contribute to, [open an issue](https://github.com/github/mentorships/issues/new) and fill out the template with details for the project.
 
 For example:
 
