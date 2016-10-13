@@ -58,7 +58,7 @@ Here are some other programs that can give you opportunities to work with experi
 
 > Season of KDE is a community outreach program, much like Google Summer of Code that has been hosted by the KDE community for seven years.
 
-- **Audience:** Everyone can apply for Season of KDE. We give preference to those who have applied for Google Summer of Code and to students, but we will gladly consider applications from anybody interested in contributing to KDE.
+- **Audience:** Everyone can apply for Season of KDE. They give preference to those who have applied for Google Summer of Code and to students, but will gladly consider applications from anybody interested in contributing to KDE.
 - **Stipend:** No
 
 ### [Tor Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP)
@@ -67,7 +67,7 @@ Here are some other programs that can give you opportunities to work with experi
 >
 > So we decided to launch our first **Tor Summer of Privacy!** This is a pilot program we hope will grow and guarantee support for students who want to collaborate with privacy tools.
 
-- **Audience:** Anyone that qualifies for Google Summer of Code. We invite and welcome many kinds of students from many kinds of backgrounds to apply.
+- **Audience:** Anyone that qualifies for Google Summer of Code. They invite and welcome many kinds of students from many kinds of backgrounds to apply.
 - **Stipend:** $5500
 
 ### [The X.Org Endless Vacation of Code](https://www.x.org/wiki/XorgEVoC/)
