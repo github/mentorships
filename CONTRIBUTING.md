@@ -14,7 +14,7 @@ For example:
 > This includes identifying bottlenecks, developing benchmarks, and possibly
 > re-writing parts of the existing code base in C++ if needed.
 >
-> Expected Outcome: Improved speed opening files and the 2MB file limit can be increased or > emoved.
+> Expected Outcome: Improved speed opening files and the 2MB file limit can be increased or > removed.
 >
 > Skills: CoffeeScript, JavaScript, C, C++
 >
@@ -23,7 +23,7 @@ For example:
 >
 > Mentors: [@kevinsawicki](https://github.com/kevinsawicki)
 
-Mentoring is incredibly rewarding, and providing a positive experience for both you and the student is an big commitment that is not to be taken lightly. Please talk to your team before volunteering.
+Mentoring is incredibly rewarding, and providing a positive experience for both you and the student is a big commitment that is not to be taken lightly. Please talk to your team before volunteering.
 
 Mentoring Resources:
 
