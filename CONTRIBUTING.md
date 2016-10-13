@@ -6,21 +6,7 @@ See [README.md](README.md) for information on applying for a mentorship.
 
 **This is for GitHub employees.**
 
-If you are interested in mentoring on an open source project that you maintain or contribute to, [open an issue](https://github.com/github/mentorships/issues/new) with the details of the project.
-
-```
-Title: [summary of project]
-
-Summary: A couple sentences describing the project.
-
-Expected Outcome: A clear outcome, where the answer to "Was the project successful?" is "yes" or "no".
-
-Skills: list of languages, frameworks, or expertise
-
-Relevant issues: [urls to issues]()
-
-Mentors: @username
-```
+If you are interested in mentoring on an open source project that you maintain or contribute to, [open an issue](https://github.com/github/mentorships/issues/new) and fill out the  template with details for the project.
 
 For example:
 
