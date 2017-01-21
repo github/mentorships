@@ -31,7 +31,7 @@ Here are some other programs that can give you opportunities to work with experi
 > Spend your summer break writing code and learning about open source development while earning money! Accepted students work with a mentor and become a part of the open source community. Many become lifetime open source developers! Students spent their summer coding from May 23 - August 23, 2016.
 
 - **Audience:** Google Summer of Code is open to post-secondary students, age 18 and older in most countries.
-- **Stipend:** $5000
+- **Stipend:** based on location of the student
 
 ### [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
 
