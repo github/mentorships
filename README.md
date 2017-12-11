@@ -1,16 +1,6 @@
-# Open Source Mentorships
+# Open Source Mentorships (deprecated)
 
-If you are looking for an opportunity to work on an open source project, please look through the [project idea list][project] and apply through one of the [available programs][program]. Feel free to [open an issue](https://github.com/github/mentorships/labels/question) or [join chat](https://gitter.im/github/mentorships) to ask questions or discuss other ideas.
-
-[![Join the chat at https://gitter.im/github/mentorships](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/github/mentorships?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[project]: https://github.com/github/mentorships/labels/project
-[program]: https://github.com/github/mentorships/labels/program
-[question]: https://github.com/github/mentorships/labels/question
-
-## Other Programs
-
-Here are some other programs that can give you opportunities to work with experienced mentors on great projects.
+If you are looking for an opportunity to work on an open source project here are some other programs that can give you opportunities to work with experienced mentors on great projects.
 
 ### [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships)
 
